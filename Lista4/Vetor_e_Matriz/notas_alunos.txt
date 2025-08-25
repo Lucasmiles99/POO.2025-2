@@ -1,0 +1,20 @@
+
+--- RELATÓRIO DE NOTAS ---
+
+Notas e médias dos alunos:
+8: Nota1=7.0, Nota2=9.0, Média=8,00
+hh: Nota1=6.0, Nota2=7.0, Média=6,50
+
+Maior nota: 9.0 (Aluno: 8)
+Menor nota: 6.0 (Aluno: hh)
+
+Maior média: 8,00 (Aluno: 8)
+Menor média: 6,50 (Aluno: hh)
+
+Média geral da turma: 7,25
+
+Alunos acima da média geral:
+8 (Média 8,00)
+
+Alunos abaixo da média geral:
+hh (Média 6,50)
