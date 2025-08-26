@@ -1,2 +1,0 @@
-Números sorteados: [4, 24, 27, 35, 50, 51]
-Cartela 1: 7 9 12 26 44 51 | Acertos: 1
